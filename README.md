@@ -1,6 +1,7 @@
+<!DOCTYPE html>
 <html>
 <head>
-<title>Angie Mitsi Rodriguez Gil</title>
+<title> Angie Mitsi Rodriguez Gil </title>
 <meta name="keywords" content="https://www.linkedin.com/in/angie-rodriguez-gil-273426280/, estudiante de administración de negocios, CCOMP2-1, tercer semestre "> 
 </head>
 <body>
