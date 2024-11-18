@@ -36,20 +36,20 @@ tr:nth-child(even) {
 
 <table>
   <tr>
-<th>Grado de estudios </th>
-    <th> Instutucion </th>
+<th> Grado de estudios </th>
+    <th> Institucion </th>
   </tr>
   <tr>
     <td>Inicial</td>
-    <td>I.E.P. Interamericano </td>
+    <td> I.E.P. Interamericano </td>
   </tr>
   <tr>
     <td>Primaria</td>
-    <td>I.E.P. Interamericano </td>
+    <td> I.E.P. Interamericano </td>
   </tr>
   <tr>
     <td>Secundaria</td>
-<td>I.E. Santa Dorotea </td>
+<td> I.E. Santa Dorotea </td>
   </tr>
   <tr>
     <td>Universidad</td>
@@ -68,7 +68,7 @@ tr:nth-child(even) {
 <table style="width:100%">
   <tr>
     <th>Curso</th>
-    <th>Curso</th>
+    <th>Profesor </th>
   </tr>
   <tr>
   	<td>Análisis de Datos I</td>
