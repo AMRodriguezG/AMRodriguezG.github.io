@@ -34,7 +34,6 @@ tr:nth-child(even) {
 <body>
 
 <h2>Estudios</h2>
-
 <table>
   <tr>
 <th> Grado de estudios </th>
@@ -58,8 +57,7 @@ tr:nth-child(even) {
 </table>
 <p>En el periodo académico que me encuentro cursando, llevo los siguientes cursos con los profesores que mostrare a continuación:</p>
 
-<style> table, th, td {
-  border:1px solid black;
+<style> table, th, td { border:1px solid black;
 }
 </style>
 <body>
