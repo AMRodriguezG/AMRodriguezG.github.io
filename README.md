@@ -86,7 +86,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Gnoseología </td>
-    <td>Kristel Gisselle Loayza Cruz</a></td>
+    <td>Kristel Gisselle Loayza Cruz</td>
   </tr>
   <tr>
   	<td>Cálculo en Una Variable</td>
