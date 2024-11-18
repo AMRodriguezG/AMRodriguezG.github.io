@@ -80,7 +80,6 @@
 
     <p>En el periodo académico que me encuentro cursando, llevo los siguientes cursos con los profesores que mostraré a continuación:</p>
 
-    <h2>Periodos Académicos</h2>
     <table style="width:100%">
         <tr>
             <th>Curso</th>
@@ -99,3 +98,27 @@
             <td><a href="https://pe.linkedin.com/in/julio-c%C3%A9sar-liz%C3%A1rraga-zegarra-01524289">Julio Cesar Lizárraga Zegarra</a></td>
         </tr>
         <tr>
+            <td>Gnoseología</td>
+            <td>Kristel Gisselle Loayza Cruz</td>
+        </tr>
+        <tr>
+            <td>Cálculo en Una Variable</td>
+            <td><a href="https://www.linkedin.com/in/maribel-marianela-8453a61a7/">Maribel Marianela Quiroz Zegarra</a></td>
+        </tr>
+        <tr>
+            <td>Estadística y Probabilidades</td>
+            <td><a href="https://pe.linkedin.com/in/javier-ticona-yucra-24a083195/en-us?trk=people-guest_people_search-card">Javier Ticona Yucra</a></td>
+        </tr>
+        <tr>
+            <td>Teología I</td>
+            <td><a href="https://sodalicio.org/categoria/vlogs/p-marcio-paulo/">Paulo Marcio De Souza</a></td>
+        </tr>
+    </table>
+</main>
+
+<footer>
+    <p>&copy; 2024 Angie Mitsi Rodriguez Gil. Todos los derechos reservados.</p>
+</footer>
+
+</body>
+</html>
