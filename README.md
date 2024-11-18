@@ -14,8 +14,7 @@
 
 <head>
 <style>
-table {
-  font-family: arial, sans-serif;
+table {font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
@@ -46,7 +45,7 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>Primaria</td>
-    <td>>I.E.P. Interamericano </a></td>
+    <td>I.E.P. Interamericano </a></td>
   </tr>
   <tr>
     <td>Secundaria</td>
