@@ -46,11 +46,11 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>Primaria</td>
-    <td><a href=>I.E.P. Interamericano </a></td>
+    <td>>I.E.P. Interamericano </a></td>
   </tr>
   <tr>
     <td>Secundaria</td>
-<td><a href=>I.E. Santa Dorotea</a></td>
+<td>I.E. Santa Dorotea</a></td>
   </tr>
   <tr>
     <td>Universidad</td>
