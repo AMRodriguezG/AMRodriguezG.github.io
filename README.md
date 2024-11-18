@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +14,7 @@
             text-align: center;
         }
         header {
-            background-color: #4CAF50;
+            background-color: #f5f5dc; /* Color beige */
             color: white;
             padding: 1em 0;
         }
@@ -21,7 +22,7 @@
             padding: 2em;
         }
         footer {
-            background-color: #4CAF50;
+            background-color: #f5f5dc; /* Color beige */
             color: white;
             padding: 1em 0;
             position: fixed;
@@ -47,10 +48,11 @@
 <body>
 
 <header>
-    <h1>Presentación de perfil</h1>
+    <h1>Angie Mitsi Rodriguez Gil</h1>
 </header>
 
 <main>
+    <h2>Presentación de perfil</h2>
     <p>Mi nombre es <a href="https://www.linkedin.com/in/angie-rodriguez-gil-273426280/">Angie Mitsi Rodriguez Gil</a> y soy estudiante de la mejor Universidad Privada del sur, la <a href="https://ucsp.edu.pe/">Universidad Católica San Pablo</a>, curso actualmente el tercer semestre de la carrera de <a href="https://ucsp.edu.pe/carreras/administracion-negocios/">Administración de Negocios</a>.</p>
 
     <h2>Estudios</h2>
@@ -77,8 +79,7 @@
         </tr>
     </table>
 
-    <p>En el periodo académico que me encuentro cursando, llevo los siguientes cursos con los profesores que mostraré a continuación:</p>
-
+    <h2>Asignaturas y profesores actuales</h2>
     <table style="width:100%">
         <tr>
             <th>Curso</th>
