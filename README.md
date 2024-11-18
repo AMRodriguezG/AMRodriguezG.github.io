@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Angie Mitsi Rodriguez Gil</title>
@@ -50,7 +49,7 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>Secundaria</td>
-<td>I.E. Santa Dorotea</td>
+<td>I.E. Santa Dorotea </td>
   </tr>
   <tr>
     <td>Universidad</td>
@@ -59,8 +58,7 @@ tr:nth-child(even) {
 
 <p>En el periodo académico que me encuentro cursando, llevo los siguientes cursos con los profesores que mostrare a continuación:</p>
 
-<style>
-table, th, td {
+<style> table, th, td {
   border:1px solid black;
 }
 </style>
