@@ -36,8 +36,8 @@ tr:nth-child(even) {
 
 <table>
   <tr>
-<th>Institución de estudios</th>
-    <th>Contact</th>
+<th>Grado de estudios </th>
+    <th> Instutucion </th>
   </tr>
   <tr>
     <td>Inicial</td>
@@ -55,7 +55,6 @@ tr:nth-child(even) {
     <td>Universidad</td>
     <td><a href="https://ucsp.edu.pe/">Universidad Católica San Pablo</a></td>
 </table>
-
 <p>En el periodo académico que me encuentro cursando, llevo los siguientes cursos con los profesores que mostrare a continuación:</p>
 
 <style> table, th, td {
