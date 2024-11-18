@@ -14,7 +14,8 @@
 
 <head>
 <style>
-table {font-family: arial, sans-serif;
+table {
+  font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
@@ -85,7 +86,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Gnoseología </td>
-    <td><a href=>Kristel Gisselle Loayza Cruz</a></td>
+    <td>Kristel Gisselle Loayza Cruz</a></td>
   </tr>
   <tr>
   	<td>Cálculo en Una Variable</td>
